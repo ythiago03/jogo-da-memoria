@@ -1,2 +1,5 @@
-# jogo da memoria
+# memory game
+
+in progress
+
  
