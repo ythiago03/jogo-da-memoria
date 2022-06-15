@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    border: 0;
+    list-style: none;
+    font-family: 'Press Start 2P', cursive, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
