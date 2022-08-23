@@ -1,6 +1,6 @@
 <h1 align="center"> Memory Game </h1>
 
-<p align="center"> Jogo da memoria usando javascript puro. </p>
+<p align="center"> Jogo da memória usando javascript puro. </p>
 
 <img src="https://user-images.githubusercontent.com/92443688/186174222-d2f6d5bb-2070-4092-a851-2e664223adad.jpg" alt="Capa do projeto">
 
@@ -16,7 +16,7 @@
 
 # Sobre
 
-- A ideia do projeto é criar um jogo da memoria no qual tem uma tela para cadastrar o seu nome e uma tela de game.
+- A ideia do projeto é criar um jogo da memória no qual tem uma tela para cadastrar o seu nome e uma tela de game.
 - Este projeto é baseado no vídeo do canal <a href="https://www.youtube.com/watch?v=NV88N1r2Qkg&t=8s&ab_channel=ManualdoDev">Manual do Dev.</a>
 - Se você encontrar algum bug ou quiser me dar alguma dica fique a vontade para me chamar no email: ythiagohcfidencio@gmail.com
  
